@@ -36,16 +36,7 @@
 	  height: 0;
   } */
 
-#left-arrow{
-  height: 100px;
-  width: 100px;
-}
 
-#right-arrow{
-	background-color: black;
-	height: 100px;
-	width: 100px;
-}
   
 /* .slider::-webkit-scrollbar {
   display: none;
